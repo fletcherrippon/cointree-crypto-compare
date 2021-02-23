@@ -1,4 +1,4 @@
-# cointree-frontend-engineeer-test
+# cointree-frontend-engineer-test
 
 ## Project setup
 ```
