@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply text-gray-900;
+}
+
+body {
+  @apply bg-gray-100;
+}
+
+.click-me:hover {
+  cursor: pointer;
+}
